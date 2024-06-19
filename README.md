@@ -14,9 +14,9 @@ For data preprocessing, we will be using Natural Language Processing’s (NLP) N
 
 Data view:
 
-![Picture 1](./assets/Picture 1.png)
+![Picture 1](./assets/Picture%201.png)
 
-![Picture 2](./assets/Picture 2.png)
+![Picture 2](./assets/Picture%202.png)
 
 
 ---
@@ -53,17 +53,16 @@ Data view:
 ![image-20240617154211255](./assets/image-20240617154211255.png)
 
 
----
+-Output:
 
-Output: 
+![Picture 4](./assets/Picture%204.png)
 
-![Picture 4](./assets/Picture 4.png)
+![Picture 5](./assets/Picture%205.png)
 
-![Picture 5](./assets/Picture 5.png)
+![Picture 6](./assets/Picture%206.png)
 
-![Picture 6](./assets/Picture 6.png)
+![Picture 7](./assets/Picture%207.png)
 
-![Picture 7](./assets/Picture 7.png)
+![Picture 8](./assets/Picture%208.png)
 
-![Picture 8](./assets/Picture 8.png)
-# zoom
+# zoom--
